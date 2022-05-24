@@ -3,12 +3,12 @@ entries:
   kron-aapm-sidecar:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-05-24T10:58:57.721993699-04:00"
+    created: "2022-05-24T11:42:32.178043936-04:00"
     description: Kron Aapm sidecar for Kubernetes
-    digest: b70f7d07f617f3ec1ba4682ce8c439297092d2795920d5191b8a9106d23b725e
+    digest: 39cfbf972c71398ad210d00fd1b17877d314882a8e5208d3972c1b08c1f18f5e
     name: kron-aapm-sidecar
     type: application
     urls:
-    - kron-aapm-sidecar-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-05-24T10:58:57.720724673-04:00"
+    - kron-aapm-sidecar-1.1.0.tgz
+    version: 1.1.0
+generated: "2022-05-24T11:42:32.176017002-04:00"
